@@ -22,7 +22,7 @@ pydantic==1.7.3
 pyparsing==2.4.7
 regex==2021.3.17
 requests==2.25.1
-sent2vec @ file://./sent2vec
+sent2vec @ git+git://github.com/epfml/sent2vec
 smart-open==3.0.0
 spacy==3.0.5
 spacy-legacy==3.0.1
